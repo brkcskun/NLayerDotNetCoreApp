@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kVYBSP+aRTey30EgM4JJ+SNLSNVJNpn263AdZQIk8C8=",
+  "Source": "NLayerDotNetCoreApp.API",
+  "BasePath": "_content/NLayerDotNetCoreApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,17 @@
+C:\Users\burak\source\repos\NLayerDotNetCoreApp\NLayerDotNetCoreApp.Data\bin\Debug\net6.0\NLayerDotNetCoreApp.Data.deps.json
+C:\Users\burak\source\repos\NLayerDotNetCoreApp\NLayerDotNetCoreApp.Data\bin\Debug\net6.0\NLayerDotNetCoreApp.Data.runtimeconfig.json
+C:\Users\burak\source\repos\NLayerDotNetCoreApp\NLayerDotNetCoreApp.Data\bin\Debug\net6.0\NLayerDotNetCoreApp.Data.dll
+C:\Users\burak\source\repos\NLayerDotNetCoreApp\NLayerDotNetCoreApp.Data\bin\Debug\net6.0\NLayerDotNetCoreApp.Data.pdb
+C:\Users\burak\source\repos\NLayerDotNetCoreApp\NLayerDotNetCoreApp.Data\bin\Debug\net6.0\NLayerDotNetCoreApp.Core.dll
+C:\Users\burak\source\repos\NLayerDotNetCoreApp\NLayerDotNetCoreApp.Data\bin\Debug\net6.0\NLayerDotNetCoreApp.Core.pdb
+C:\Users\burak\source\repos\NLayerDotNetCoreApp\NLayerDotNetCoreApp.Data\obj\Debug\net6.0\NLayerDotNetCoreApp.Data.csproj.AssemblyReference.cache
+C:\Users\burak\source\repos\NLayerDotNetCoreApp\NLayerDotNetCoreApp.Data\obj\Debug\net6.0\NLayerDotNetCoreApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\source\repos\NLayerDotNetCoreApp\NLayerDotNetCoreApp.Data\obj\Debug\net6.0\NLayerDotNetCoreApp.Data.AssemblyInfoInputs.cache
+C:\Users\burak\source\repos\NLayerDotNetCoreApp\NLayerDotNetCoreApp.Data\obj\Debug\net6.0\NLayerDotNetCoreApp.Data.AssemblyInfo.cs
+C:\Users\burak\source\repos\NLayerDotNetCoreApp\NLayerDotNetCoreApp.Data\obj\Debug\net6.0\NLayerDotNetCoreApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\NLayerDotNetCoreApp\NLayerDotNetCoreApp.Data\obj\Debug\net6.0\NLayerDotNetCoreApp.Data.csproj.CopyComplete
+C:\Users\burak\source\repos\NLayerDotNetCoreApp\NLayerDotNetCoreApp.Data\obj\Debug\net6.0\NLayerDotNetCoreApp.Data.dll
+C:\Users\burak\source\repos\NLayerDotNetCoreApp\NLayerDotNetCoreApp.Data\obj\Debug\net6.0\refint\NLayerDotNetCoreApp.Data.dll
+C:\Users\burak\source\repos\NLayerDotNetCoreApp\NLayerDotNetCoreApp.Data\obj\Debug\net6.0\NLayerDotNetCoreApp.Data.pdb
+C:\Users\burak\source\repos\NLayerDotNetCoreApp\NLayerDotNetCoreApp.Data\obj\Debug\net6.0\NLayerDotNetCoreApp.Data.genruntimeconfig.cache
+C:\Users\burak\source\repos\NLayerDotNetCoreApp\NLayerDotNetCoreApp.Data\obj\Debug\net6.0\ref\NLayerDotNetCoreApp.Data.dll

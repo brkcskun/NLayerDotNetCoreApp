@@ -1,0 +1,11 @@
+C:\Users\burak\source\repos\NLayerDotNetCoreApp\NLayerDotNetCoreApp.Core\bin\Debug\net6.0\NLayerDotNetCoreApp.Core.deps.json
+C:\Users\burak\source\repos\NLayerDotNetCoreApp\NLayerDotNetCoreApp.Core\bin\Debug\net6.0\NLayerDotNetCoreApp.Core.dll
+C:\Users\burak\source\repos\NLayerDotNetCoreApp\NLayerDotNetCoreApp.Core\bin\Debug\net6.0\NLayerDotNetCoreApp.Core.pdb
+C:\Users\burak\source\repos\NLayerDotNetCoreApp\NLayerDotNetCoreApp.Core\obj\Debug\net6.0\NLayerDotNetCoreApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\source\repos\NLayerDotNetCoreApp\NLayerDotNetCoreApp.Core\obj\Debug\net6.0\NLayerDotNetCoreApp.Core.AssemblyInfoInputs.cache
+C:\Users\burak\source\repos\NLayerDotNetCoreApp\NLayerDotNetCoreApp.Core\obj\Debug\net6.0\NLayerDotNetCoreApp.Core.AssemblyInfo.cs
+C:\Users\burak\source\repos\NLayerDotNetCoreApp\NLayerDotNetCoreApp.Core\obj\Debug\net6.0\NLayerDotNetCoreApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\NLayerDotNetCoreApp\NLayerDotNetCoreApp.Core\obj\Debug\net6.0\NLayerDotNetCoreApp.Core.dll
+C:\Users\burak\source\repos\NLayerDotNetCoreApp\NLayerDotNetCoreApp.Core\obj\Debug\net6.0\refint\NLayerDotNetCoreApp.Core.dll
+C:\Users\burak\source\repos\NLayerDotNetCoreApp\NLayerDotNetCoreApp.Core\obj\Debug\net6.0\NLayerDotNetCoreApp.Core.pdb
+C:\Users\burak\source\repos\NLayerDotNetCoreApp\NLayerDotNetCoreApp.Core\obj\Debug\net6.0\ref\NLayerDotNetCoreApp.Core.dll

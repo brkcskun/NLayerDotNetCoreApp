@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\NLayerDotNetCoreApp.API",
+    "\\NLayerDotNetCoreApp.API\\Filters",
+    "\\NLayerDotNetCoreApp.API\\Middlewares",
+    "\\NLayerDotNetCoreApp.Data",
+    "\\NLayerDotNetCoreApp.Data\\EntityFramework",
+    "\\NLayerDotNetCoreApp.Data\\Migrations",
+    "\\NLayerDotNetCoreApp.Service",
+    "\\NLayerDotNetCoreApp.Service\\Exceptions",
+    "\\NLayerDotNetCoreApp.Service\\Mapping"
+  ],
+  "SelectedNode": "\\NLayerDotNetCoreApp.Data\\Migrations\\20230910214335_initial.cs",
+  "PreviewInSolutionExplorer": false
+}
