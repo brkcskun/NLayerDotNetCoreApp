@@ -17,11 +17,18 @@ namespace NLayerDotNetCoreApp.API.Controllers
             _mapper = mapper;
         }
 
-        [HttpGet]
-        public async Task<IActionResult> GetAll()
+        //[HttpGet]
+        //public async Task<IActionResult> GetAll()
+        //{
+        //    var books = await _bookService.GetAllAsync<BookWithAuthorsDto>();
+        //    return CreateActionResult(CustomResponseDto<List<BookWithAuthorsDto>>.Success((int)HttpStatusCode.OK, books.ToList()));
+        //}
+
+        [HttpGet("GetBookByIdWithAuthorsAsync")]
+        public async Task<IActionResult> GetBookByIdWithAuthorsAsync(int id)
         {
-            var books = await _bookService.GetAllAsync<BooksWithAuthorsDto>();
-            return CreateActionResult(CustomResponseDto<List<BooksWithAuthorsDto>>.Success((int)HttpStatusCode.OK, books.ToList()));
+            var book = await _bookService.GetBookByIdWithAuthorsAsync(id);
+            return CreateActionResult(book);
         }
     }
 }

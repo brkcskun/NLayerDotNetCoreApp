@@ -17,17 +17,17 @@ namespace NLayerDotNetCoreApp.Data.EntityFramework
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<BookAuthor>()
-           .HasKey(ky => new { ky.BookId, ky.AuthorId });
+           .HasKey(ba => new { ba.BookId, ba.AuthorId });
 
             modelBuilder.Entity<BookAuthor>()
-                .HasOne(ky => ky.Book)
-                .WithMany(k => k.Authors)
-                .HasForeignKey(ky => ky.BookId);
+                .HasOne(ba => ba.Book)
+                .WithMany(b => b.Authors)
+                .HasForeignKey(ba => ba.BookId);
 
             modelBuilder.Entity<BookAuthor>()
-                .HasOne(ky => ky.Author)
-                .WithMany(y => y.Books)
-                .HasForeignKey(ky => ky.AuthorId);
+                .HasOne(ba => ba.Author)
+                .WithMany(c => c.Books)
+                .HasForeignKey(ba => ba.AuthorId);
 
             modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
 

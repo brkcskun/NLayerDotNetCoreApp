@@ -14,7 +14,7 @@ namespace NLayerDotNetCoreApp.Data.Repositories
 
         public async Task<List<Book>> GetBooksWithAuthors()
         {
-            var books = await _context.Books.Include(x => x.Authors).ToListAsync();
+            var books = await _context.Books.Include(x => x.Authors).ThenInclude(x=>x.Author).ToListAsync();
 
             return books;
         }

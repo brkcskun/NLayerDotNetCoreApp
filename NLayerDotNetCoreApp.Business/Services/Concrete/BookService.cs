@@ -19,13 +19,13 @@ namespace NLayerDotNetCoreApp.Business.Services.Concrete
             _mapper = mapper;
         }
 
-        public async Task<CustomResponseDto<BooksWithAuthorsDto>> GetBookByIdWithAuthorsAsync(int bookId)
+        public async Task<CustomResponseDto<List<BookWithAuthorsDto>>> GetBookByIdWithAuthorsAsync(int bookId)
         {
             var books = await _bookRepository.GetBooksWithAuthors();
 
-            var bookDto = _mapper.Map<BooksWithAuthorsDto>(books);
+            var bookDtos = _mapper.Map<List<BookWithAuthorsDto>>(books);
 
-            return CustomResponseDto<BooksWithAuthorsDto>.Success(200, bookDto);
+            return CustomResponseDto<List<BookWithAuthorsDto>>.Success(200, bookDtos);
         }
     }
 }
